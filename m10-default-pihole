@@ -4,3 +4,5 @@
 
 # block youtube.com completely
 0.0.0.0 youtube.com
+0.0.0.0 mbl.is
+0.0.0.0 visir.is
