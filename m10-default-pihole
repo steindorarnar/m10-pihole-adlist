@@ -1,0 +1,6 @@
+# Title: Steindor / blacklist for pihole
+#
+# ===============================================================
+
+# block youtube.com completely
+0.0.0.0 youtube.com
