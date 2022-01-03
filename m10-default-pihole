@@ -5,3 +5,8 @@
 # block youtube.com completely
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 security-api.myfoscam.com
+0.0.0.0 access.myfoscam.com
+0.0.0.0 api.myfoscam.com
+0.0.0.0 push-access.myfoscam.com
+
